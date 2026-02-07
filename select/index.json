@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hype Boy – 250 Remix",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-02-07T11:42:10.055549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/01_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/02_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hype Boy (250 Remix)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/03_Hype_Boy_(250_Remix)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hype Boy (250 Remix) (Instrumental)",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/04_Hype_Boy_(250_Remix)_(Instrumental)_NewJeans.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans (뉴진스)",
+      "has_synced": true,
+      "path": "select/05_Hype_Boy_NewJeans_(뉴진스).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hype Boy (250 Remix) (Inst.)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/06_Hype_Boy_(250_Remix)_(Inst.)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/07_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/08_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hype Boy – 250 Remix",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/09_Hype_Boy_–_250_Remix_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/10_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/11_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/12_Hype_Boy_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hype Boy (Performance ver.1)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/13_Hype_Boy_(Performance_ver.1)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hype Boy (Performance ver.1)",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/14_Hype_Boy_(Performance_ver.1)_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hype Boy (Performance ver.1)",
+      "artist": "Video • NewJeans",
+      "has_synced": true,
+      "path": "select/15_Hype_Boy_(Performance_ver.1)_Video_•_NewJeans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hype Boy",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_Hype_Boy_NewJeans.txt"
+    }
+  ]
+}
